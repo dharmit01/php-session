@@ -1,0 +1,84 @@
+body {
+    background-color: rgb(75, 74, 74);
+    /* margin-left: 5rem; */
+    /* font-size: 18px; */
+    height: 200vh;
+}
+
+.parent {
+    background-color: rgb(255, 151, 151);
+    padding: 10px 10px;
+    /* height: 200vh; */
+}
+
+.child1 {
+    background-color: rgb(103, 235, 103);
+    position: sticky;
+    width: 100%;
+    top: 0;
+}
+
+.child2 {
+    background-color: cyan;
+}
+
+.child3 {
+    background-color: yellow;
+}
+
+.text {
+    font-size: 2rem;
+}
+
+.text2-parent {
+    font-size: 12px;
+}
+
+.text2 {
+    font-size: 2rem;
+}
+
+.heading {
+    font-family: Helvetica;
+    font-weight: 900;
+}
+
+/* .parent {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+}
+
+.child {
+    background-color: blue;
+    height: 25px;
+    width: 50%;
+} */
+
+/* .parent2 {
+    background-color: red;
+    height: 50px;
+    width: 400px;
+}
+
+.child2 {
+    background-color: blue;
+    height: 25px;
+    width: 50%;
+} */
+
+label {
+    color: white;
+}
+
+#label-id {
+    color: purple;
+}
+
+.label-class {
+    color: aqua;
+}
+
+h1.label-class {
+    color: black;
+}
