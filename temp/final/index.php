@@ -1,4 +1,5 @@
 <?php include(__DIR__ . "/layout/header.php") ?>
+<?php include './connection.php'; ?>
 
 <!-- Main Page -->
 <div class="container d-flex flex-column vh-100 align-items-center justify-content-center">

@@ -9,10 +9,10 @@
                 <h3>Login</h3>
             </div>
             <div class="card-body">
-                <form action="" method="post">
+                <form action="./backend_2/login.php" method="post">
                     <div class="mb-4">
-                        <label for="username" class="form-label">Username</label>
-                        <input class="form-control p-3" type="text" name="username" id="username" required>
+                        <label for="username" class="form-label">Email</label>
+                        <input class="form-control p-3" type="text" name="email" id="username" required>
                     </div>
                     <div class="mb-4">
                         <label for="password" class="form-label">Password</label>
